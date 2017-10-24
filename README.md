@@ -1,2 +1,6 @@
 # Weed
-A lan based video chat for LAN based on tcp
+A lan based video chat based on tcp
+
+# Prerequisites
+C++
+Opencv
