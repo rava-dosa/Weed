@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*.py~
+.gitignore~
+*.txt~ 
+*.cpp~
+*.md~
+*.h~
+*.hpp~
+*.cc~
