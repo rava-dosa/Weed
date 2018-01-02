@@ -1,4 +1,4 @@
-# Weed
+# Weed [![Help Contribute to Open Source](https://www.codetriage.com/rava-dosa/weed/badges/users.svg)](https://www.codetriage.com/rava-dosa/weed)
 A lan based video chat based on tcp
 # Getting Started
 
